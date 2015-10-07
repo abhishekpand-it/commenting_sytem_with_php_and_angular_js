@@ -16,7 +16,7 @@ Also adding the user profile while submitting the reply and comments would be +1
 
 2. In the comments.php file add your server details: 
 
-SERVER = "your host"; USER = "your username"; PASSWORD = "your password"; DB = "database name";
+   SERVER = "your host"; USER = "your username"; PASSWORD = "your password"; DB = "database name";
 
 3. Start executing the php with index file.
 
