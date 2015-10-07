@@ -11,16 +11,24 @@ Later on some UI work needs to be done to bring the look and feel of this projec
 Also adding the user profile while submitting the reply and comments would be +1.
 
 ----===Installation===----
+
 1. Import the comments.sql and reply.sql database to your MYSQL Database.
+
 2. In the comments.php file add your server details: 
 
 SERVER = "your host";
+
 USER = "your username";
+
 PASSWORD = "your password";
+
 DB = "database name";
 
+
 3. Start executing the php with index file.
+
 4. Or go to path http://<your-host>/commenting_system_with_php_and_angular_js/
+5. 
 5. Start entering comments and reply.
 
 
