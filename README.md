@@ -20,7 +20,7 @@ SERVER = "your host"; USER = "your username"; PASSWORD = "your password"; DB = "
 
 3. Start executing the php with index file.
 
-4. Or go to path http://<your-host>/commenting_system_with_php_and_angular_js/
+4. Or go to path http://your-host/commenting_system_with_php_and_angular_js/
 
 5. Start entering comments and reply.
 
