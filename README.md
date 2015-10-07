@@ -9,6 +9,16 @@ This is the commenting system using PHP and AgularJS. Commenting and replying ar
 
 ----===Installation===----
 1. Import the comments.sql and reply.sql database to your MYSQL Database.
-2. Start executing the php with index file.
-3. Or go to path http://<your-host>/commenting_system_with_php_and_angular_js/
-4. Start entering comments and reply.
+2. In the comments.php file add your server details: 
+
+SERVER = "your host";
+USER = "your username";
+PASSWORD = "your password";
+DB = "database name";
+
+3. Start executing the php with index file.
+4. Or go to path http://<your-host>/commenting_system_with_php_and_angular_js/
+5. Start entering comments and reply.
+
+
+This PHP-AngluarJS comment system is developed by Abhishek Pandit. 
